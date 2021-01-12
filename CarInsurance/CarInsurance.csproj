@@ -171,8 +171,11 @@
     <Content Include="Content\Images\LandingPageAuto.jpg" />
     <Content Include="Content\Images\LandingPageCut.png" />
     <Content Include="Content\Images\MonopolyCar.jpg" />
+    <Content Include="Content\Images\pexels-matheus-bertelli-799443 %282%29.jpg" />
+    <Content Include="Content\Images\SmartPhoneRoad.jpg" />
     <Content Include="Content\Images\SeasideDrive.jpg" />
     <Content Include="Content\Images\SmartRoad.jpg" />
+    <Content Include="Content\Images\widesmartRoad.jpg" />
     <Content Include="Content\Images\YellowLinesBlacktop.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />

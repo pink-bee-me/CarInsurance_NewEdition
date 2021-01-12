@@ -98,6 +98,27 @@ textarea {
    }
    #Free a{
        position:relative;
-       display:block;
+     display:block;
        bottom:100vh;
    }
+
+#Create_CSHTML_Image {
+    position:relative;
+    background-image: url("Images/widesmartRoad.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0vh;
+    left: -10vh;
+    width:100vw;
+    height:150vh;
+}
+#Create_Cshtml_Color_Overlay {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    background-size: cover;
+    background: rgba(255,255,255,.35);
+    width: 100vw;
+    height: 150vh;
+    z-index: 1;
+}
